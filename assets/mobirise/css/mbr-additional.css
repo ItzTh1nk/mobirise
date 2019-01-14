@@ -2346,7 +2346,7 @@ body {
   background: url("../../../assets/images/prusit-fivem-charger-2000x1000.jpg");
 }
 .cid-rf5sYnb08J .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
   font-weight: 300;
 }
 .cid-rf5sYnb08J .number-wrap {
@@ -2436,4 +2436,7 @@ body {
   .cid-rf5sYnb08J .period {
     font-size: 0.6rem;
   }
+}
+.cid-rf5sYnb08J H2 {
+  color: #ffffff;
 }
